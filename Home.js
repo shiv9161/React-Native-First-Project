@@ -34,7 +34,8 @@ const style = StyleSheet.create({
         color: 'orange', 
         borderColor: 'black', 
         borderWidth: 1, 
-        borderRadius: 10
+        borderRadius: 5,
+        marginTop: 20
     },
     notifiHead:{
         color: 'red',
