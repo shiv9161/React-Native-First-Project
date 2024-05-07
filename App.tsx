@@ -1,11 +1,9 @@
 import React from 'react'
-// import StackNavigation from './StackNavigation'
-import TabBased from './TabBased'
+import StackNavigation from './StackNavigation'
 
 const App = () => {
   return (
-    // <StackNavigation />
-    <TabBased />
+    <StackNavigation />
   )
 }
 
